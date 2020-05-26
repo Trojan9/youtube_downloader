@@ -1,6 +1,6 @@
 # youtubedownloader
 
-A youtube downloader application
+A youtube audio or video downloader application
 
 ## Getting Started
 
